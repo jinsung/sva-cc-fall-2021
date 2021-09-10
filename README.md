@@ -25,7 +25,7 @@
 
 ### Week 1 -- Introduction
   * Hello
-    * [Works](https://vimeo.com/136505838)
+    * [Works](https://vimeo.com/manage/videos/594718903)
   * What is computer programming and why?
   * Reference works
     * [John Maeda Morisawa 10](https://maedastudio.com/morisawa-10-2016/)
