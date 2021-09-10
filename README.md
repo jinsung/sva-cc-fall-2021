@@ -18,7 +18,7 @@
 * Midterm Project - 20%
 * Final - 30%
 
-## Tools
+## TOOLS
 * [p5.js web editor](https://editor.p5js.org)
 
 ## SYLLABUS
