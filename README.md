@@ -1,7 +1,7 @@
 # Creative Computing
 - Fall, 2021
 - Instructor: Jin Sung Yoo - ujinsung@gmail.com
-- Class Times: Friday, 6:45 PM - 9:35 PM
+- Class Times: Friday, 6:30 PM - 9:20 PM
 
 ## DESCRIPTION
 - This course involves an exploration of computer programming as a tool of visual communication and interactivity between a computer and people. This is a project-based course. Students will learn computer programming through their hands-on experiences. During the semester. The p5.js will be used to illustrate the fundamental of computation.
