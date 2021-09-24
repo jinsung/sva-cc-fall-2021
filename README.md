@@ -55,20 +55,21 @@
   * [Mouse Position](https://editor.p5js.org/jinsung/sketches/6sEwURA2z)
   * [No Background](https://editor.p5js.org/jinsung/sketches/V6u5fiLJq)
   * [Line Drawing](https://editor.p5js.org/jinsung/sketches/-WTijUk-3)
-  * Comment
-  * Console.log!
 
 ### Week 3 -- Bouncing Ball!
  * Casey Reas
     * [How to draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE)
- * [Variables](https://editor.p5js.org/jinsung/sketches/LnK1fCGxG)
+ * Comment
+ * Console.log!
+ * [Random](https://editor.p5js.org/jinsung/sketches/OWSOiteWJ)
+ * [Animation / Variable](https://editor.p5js.org/jinsung/sketches/LnK1fCGxG)
     * Built-in or User-defined
     * Declare, Initialize, and Use
     * Type of the variable (Number, String, Boolean)
     * Scope
  * [Boolean Operation](https://editor.p5js.org/jinsung/sketches/HYDqGeOFv)
- * [Random](https://editor.p5js.org/jinsung/sketches/OWSOiteWJ)
  * [Easing](https://editor.p5js.org/jinsung/sketches/UjXbU3Q8O)
+ * Homework - bouncing ball!
 
 ### Week 4 -- Loop
  * [Kyle McDonald](https://kylemcdonald.net/)
