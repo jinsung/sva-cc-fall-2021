@@ -61,7 +61,6 @@
 ### Week 3 -- Bouncing Ball!
  * Casey Reas
     * [How to draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE)
- * Presenters: Mirae, Zhiwei, Zao
  * [Variables](https://editor.p5js.org/jinsung/sketches/LnK1fCGxG)
     * Built-in or User-defined
     * Declare, Initialize, and Use
@@ -73,7 +72,6 @@
 
 ### Week 4 -- Loop
  * [Kyle McDonald](https://kylemcdonald.net/)
- * Presenters: Brendan, Aline
  * [Conditions](https://editor.p5js.org/jinsung/sketches/kq1Cszsja)
  * [Conditions 2](https://editor.p5js.org/jinsung/sketches/1kKTMtQS)
  * [While Loop 1](https://editor.p5js.org/jinsung/sketches/p_11LXsvK)
@@ -87,7 +85,6 @@
   * [IQ Font](https://vimeo.com/5233789)
   * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
   * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
- * Presenters: Eyal, Chia-Ling
  * Debug
     * console.log
     * Javascript Debugger
@@ -101,7 +98,6 @@
     * [NIKE MUSIC SHOE](https://www.youtube.com/watch?v=uS1exujG3cY)
     * [discrete figures at Spiral Hall Tokyo](https://www.youtube.com/watch?time_continue=88&v=hauXQQhwbgM)
     * [Perfume Live at SXSW | STORY (SXSW-MIX)](https://www.youtube.com/watch?v=zZiPIgCtIxg)
- * Presenters: Jialin, Kyle, Hyoung Rok
  * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
  * [Perlin Noise 2](https://editor.p5js.org/jinsung/sketches/5Dx8IiKic)
  * [Perlin Noise 3](https://editor.p5js.org/jinsung/sketches/1zw6R4AjL)
@@ -115,7 +111,6 @@
 
 ### Week 7 -- Function, Clock
  * [three.js](https://threejs.org/)
- * Presenters: So Jeong
  * Function
     * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
@@ -123,7 +118,6 @@
 
 ### Week 8 -- Object and Array
  * [DIA Studio](http://dia.tv/)
- * Presenter: Philip
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
@@ -171,6 +165,7 @@
  
 ### Week 14 -- 1:1 Meeting
  * https://docs.google.com/spreadsheets/d/1pljnZLFBGNlKc5e746sxKHQr9ZFCjMo8RVRQ8WUzX7A/edit#gid=0
+
 ### Week 15 -- Particle System 2 / Final Project Presentation
  * [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
  * [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
