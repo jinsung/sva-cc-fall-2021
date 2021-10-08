@@ -14,7 +14,7 @@
 ### Doah Kwon
 * [HW1](https://editor.p5js.org/doahkwon/sketches/utXqI03sL)
 * [HW2](https://editor.p5js.org/doahkwon/sketches/ImKPJuch-)
-* 
+
 ### Hyupjung Lee
 * [HW1](https://editor.p5js.org/Hyupjung/sketches/Urp_PybXe)
 
