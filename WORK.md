@@ -31,7 +31,9 @@
 * [HW1](https://editor.p5js.org/GloriaW/sketches/ZJPHORSX7)
 
 ### Albby Zhang
+* [HW1](https://editor.p5js.org/Albby/sketches/UHrk1D9Lt)
 
 ### Shiqing Zhu
+* [HW1](https://editor.p5js.org/umai/sketches/xktDwoR0c)
 
 
