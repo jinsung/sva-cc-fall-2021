@@ -10,6 +10,7 @@
 
 ### Eunji Kim
 * [HW1](https://editor.p5js.org/ekim95/sketches/0kwnm-I6V)
+* [HW2](https://editor.p5js.org/ekim95/sketches/8wXnitmDx)
 
 ### Doah Kwon
 * [HW1](https://editor.p5js.org/doahkwon/sketches/utXqI03sL)
@@ -20,6 +21,7 @@
 
 ### Jihyeon Leem
 * [HW1](https://editor.p5js.org/kanebo2942/sketches/EcsvWNXMD)
+* [HW2](https://editor.p5js.org/kanebo2942/sketches/YuTPoaTcg)
 
 ### Sabrina Ma
 * [HW1](https://editor.p5js.org/sabrinama/sketches/A8BLYOHDc)
