@@ -2,9 +2,11 @@
 
 ### Zhishuo Cheng
 * [HW1](https://editor.p5js.org/zcheng2/sketches/61nzkrm5U)
+* [HW2](https://editor.p5js.org/zcheng2/sketches/6_JipHcpV)
 
 ### Michelle Xinyuan Gu
 * [HW1](https://editor.p5js.org/xgu4/sketches/KIQDqXu98)
+* [HW2](https://editor.p5js.org/xgu4/sketches/fwfE39pV5)
 
 ### Eunji Kim
 * [HW1](https://editor.p5js.org/ekim95/sketches/0kwnm-I6V)
@@ -20,9 +22,11 @@
 
 ### Sabrina Ma
 * [HW1](https://editor.p5js.org/sabrinama/sketches/A8BLYOHDc)
+* [HW2](https://editor.p5js.org/sabrinama/sketches/zl29NWHou)
 
 ### Irene Tsay
 * [HW1](https://editor.p5js.org/IreneTsay/sketches/ilcQFoLHX)
+* [HW2](https://editor.p5js.org/IreneTsay/sketches/dQUQ9j27K)
 
 ### Benjamin White
 * [HW1](https://editor.p5js.org/benbeenthere/sketches/O_YngkXU_)
