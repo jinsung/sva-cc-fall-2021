@@ -12,8 +12,9 @@
 * [HW1](https://editor.p5js.org/ekim95/sketches/0kwnm-I6V)
 
 ### Doah Kwon
-* [HW1](https://editor.p5js.org/doahkwon/sketches/vjAOaNMrn)
-
+* [HW1](https://editor.p5js.org/doahkwon/sketches/utXqI03sL)
+* [HW2](https://editor.p5js.org/doahkwon/sketches/ImKPJuch-)
+* 
 ### Hyupjung Lee
 * [HW1](https://editor.p5js.org/Hyupjung/sketches/Urp_PybXe)
 
@@ -30,6 +31,7 @@
 
 ### Benjamin White
 * [HW1](https://editor.p5js.org/benbeenthere/sketches/O_YngkXU_)
+* [HW2](https://editor.p5js.org/benbeenthere/sketches/c_SfuTyfH)
 
 ### Gloria Wong
 * [HW1](https://editor.p5js.org/GloriaW/sketches/ZJPHORSX7)
@@ -39,5 +41,6 @@
 
 ### Shiqing Zhu
 * [HW1](https://editor.p5js.org/umai/sketches/xktDwoR0c)
+* [HW2](https://editor.p5js.org/umai/sketches/l4g4NoH1W)
 
 
