@@ -1,6 +1,7 @@
 ### Daye An
 
 ### Zhishuo Cheng
+* [HW1](https://editor.p5js.org/zcheng2/sketches/61nzkrm5U)
 
 ### Michelle Xinyuan Gu
 * [HW1](https://editor.p5js.org/xgu4/sketches/KIQDqXu98)
@@ -27,7 +28,7 @@
 * [HW1](https://editor.p5js.org/benbeenthere/sketches/O_YngkXU_)
 
 ### Gloria Wong
-* [HW1](https://editor.p5js.org/gloria0glow/sketches/UdKPN50mK)
+* [HW1](https://editor.p5js.org/GloriaW/sketches/ZJPHORSX7)
 
 ### Albby Zhang
 
