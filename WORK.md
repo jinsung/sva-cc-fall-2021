@@ -18,6 +18,7 @@
 
 ### Hyupjung Lee
 * [HW1](https://editor.p5js.org/Hyupjung/sketches/Urp_PybXe)
+* [HW2](https://editor.p5js.org/Hyupjung/sketches/K-ENrJu3o)
 
 ### Jihyeon Leem
 * [HW1](https://editor.p5js.org/kanebo2942/sketches/EcsvWNXMD)
