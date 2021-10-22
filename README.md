@@ -94,31 +94,30 @@
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
 
 ### Week 6 -- 2D Transformation / Function
- * Daito Manabe
-    * [Face](https://www.youtube.com/watch?v=pLAma-lrJRM)
-    * [NIKE MUSIC SHOE](https://www.youtube.com/watch?v=uS1exujG3cY)
-    * [discrete figures at Spiral Hall Tokyo](https://www.youtube.com/watch?time_continue=88&v=hauXQQhwbgM)
-    * [Perfume Live at SXSW | STORY (SXSW-MIX)](https://www.youtube.com/watch?v=zZiPIgCtIxg)
  * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
  * [Perlin Noise 2](https://editor.p5js.org/jinsung/sketches/5Dx8IiKic)
  * [Perlin Noise 3](https://editor.p5js.org/jinsung/sketches/1zw6R4AjL)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
  * [curveVertex()](https://p5js.org/reference/#/p5/curveVertex)
  * [Nested For Loop / Curves](https://editor.p5js.org/jinsung/sketches/1q36GJcFT)
+
+### Week 7 -- Function, Clock
+ * Daito Manabe
+    * [Face](https://www.youtube.com/watch?v=pLAma-lrJRM)
+    * [NIKE MUSIC SHOE](https://www.youtube.com/watch?v=uS1exujG3cY)
+    * [discrete figures at Spiral Hall Tokyo](https://www.youtube.com/watch?time_continue=88&v=hauXQQhwbgM)
+    * [Perfume Live at SXSW | STORY (SXSW-MIX)](https://www.youtube.com/watch?v=zZiPIgCtIxg)
  * [2D Transformation](https://editor.p5js.org/jinsung/sketches/fuV9qy_iZ)
     * Radians & Degrees
     * Translate / Rotate / Scale
     * Push / Pop
-
-### Week 7 -- Function, Clock
- * [three.js](https://threejs.org/)
  * Function
     * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
 
 ### Week 8 -- Object and Array
- * [DIA Studio](http://dia.tv/)
+  * [three.js](https://threejs.org/)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
