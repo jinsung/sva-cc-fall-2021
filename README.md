@@ -126,12 +126,12 @@
  
 ### Week 9 -- Object and Array Practice
  * Mid-term Due
- * [IBM Think Exhibit](https://www.youtube.com/watch?v=JVrXAsYd1Wk)
- * [THA LTD.](http://tha.jp/works/)
+ * [DIA](https://dia.tv/)
  * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
  * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
  
 ### Week 10 -- Object and Array Practice
+ * [THA LTD.](http://tha.jp/works/)
  * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
  * [Letter Animation 2](https://editor.p5js.org/jinsung/sketches/dUCDvAlbf)
  * [Letter Animation 3](https://editor.p5js.org/jinsung/sketches/qUrMNVhiS)
