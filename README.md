@@ -129,6 +129,7 @@
  * [DIA](https://dia.tv/)
  * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
  * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
+ * Need to reschedule for the class next week. 
  
 ### Week 10 -- Object and Array Practice
  * [THA LTD.](http://tha.jp/works/)
