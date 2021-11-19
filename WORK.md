@@ -58,7 +58,9 @@
 * [MT](https://editor.p5js.org/GloriaW/sketches/WWJ812s09)
 
 ### Albby Zhang
-* [HW1](https://editor.p5js.org/Albby/sketches/UHrk1D9Lt)
+* [HW1](https://editor.p5js.org/Albby/sketches/XOmLw6WJm)
+* [HW3](https://editor.p5js.org/Albby/sketches/G0fVY6Zo3)
+* [MT](https://editor.p5js.org/Albby/sketches/WCd_aWs1E)
 
 ### Shiqing Zhu
 * [HW1](https://editor.p5js.org/umai/sketches/xktDwoR0c)
