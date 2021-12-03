@@ -20,6 +20,7 @@
 * [HW1](https://editor.p5js.org/doahkwon/sketches/utXqI03sL)
 * [HW2](https://editor.p5js.org/doahkwon/sketches/ImKPJuch-)
 * [HW3](https://editor.p5js.org/doahkwon/sketches/UYzirVIiK)
+* [HW3-1](https://editor.p5js.org/doahkwon/sketches/37GqT6foC)
 * [MT](https://editor.p5js.org/doahkwon/sketches/9DrXP2leY)
 
 ### Hyupjung Lee
